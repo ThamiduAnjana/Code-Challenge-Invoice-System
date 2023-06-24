@@ -1,0 +1,62 @@
+{
+  "Products": [
+    {
+      "Name": "Croissant",
+      "Code": "CR",
+      "Packs": [
+        {
+          "Name": "CR3",
+          "Qty": 3,
+          "Price": 6.00
+        },
+        {
+          "Name": "CR5",
+          "Qty": 5,
+          "Price": 8.50
+        },
+        {
+          "Name": "CR9",
+          "Qty": 9,
+          "Price": 15.99
+        }
+      ]
+    },
+    {
+      "Name": "Muffins",
+      "Code": "MF",
+      "Packs": [
+        {
+          "Name": "MF2",
+          "Qty": 2,
+          "Price": 9.95
+        },
+        {
+          "Name": "MF5",
+          "Qty": 5,
+          "Price": 16.95
+        },
+        {
+          "Name": "MF8",
+          "Qty": 8,
+          "Price": 24.95
+        }
+      ]
+    },
+    {
+      "Name": "Scroll",
+      "Code": "SC",
+      "Packs": [
+        {
+          "Name": "SC3",
+          "Qty": 3,
+          "Price": 6.99
+        },
+        {
+          "Name": "SC5",
+          "Qty": 5,
+          "Price": 8.99
+        }
+      ]
+    }
+  ]
+}

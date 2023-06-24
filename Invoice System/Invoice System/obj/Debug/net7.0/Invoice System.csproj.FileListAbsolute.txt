@@ -1,0 +1,37 @@
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\appsettings.Development.json
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\appsettings.json
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Invoice System.exe
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Invoice System.deps.json
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Invoice System.runtimeconfig.json
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Invoice System.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Invoice System.pdb
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.csproj.AssemblyReference.cache
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.AssemblyInfoInputs.cache
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.AssemblyInfo.cs
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.csproj.CoreCompileInputs.cache
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.MvcApplicationPartsAssemblyInfo.cs
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.MvcApplicationPartsAssemblyInfo.cache
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\staticwebassets\msbuild.Invoice System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\staticwebassets\msbuild.build.Invoice System.props
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Invoice System.props
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Invoice System.props
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\staticwebassets.pack.json
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\staticwebassets.build.json
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\staticwebassets.development.json
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\scopedcss\bundle\Invoice System.styles.css
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.csproj.CopyComplete
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\refint\Invoice System.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.pdb
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\Invoice System.genruntimeconfig.cache
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\obj\Debug\net7.0\ref\Invoice System.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Data\store.json
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\CodingCubes\Projects\C#\Invoice System\Invoice System\bin\Debug\net7.0\Data\AllInvoice.json

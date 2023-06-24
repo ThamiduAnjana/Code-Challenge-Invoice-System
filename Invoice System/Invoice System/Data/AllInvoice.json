@@ -1,0 +1,65 @@
+{
+  "Invoices": [
+    {
+      "InvoiceIssueDate": "2023-06-25T00:59:31.3916224+05:30",
+      "InvoiceNumber": "INV 593",
+      "InvoiceTotal": 95.78,
+      "LineItems": [
+        {
+          "Description": "Scroll",
+          "Code": "SC",
+          "TotalItemQty": 10,
+          "LineItemTotal": 17.98,
+          "Packs": [
+            {
+              "PackageCode": "SC5",
+              "ItemsPerPack": 5,
+              "Price": 8.99,
+              "Qty": 2
+            }
+          ]
+        },
+        {
+          "Description": "Muffins",
+          "Code": "MF",
+          "TotalItemQty": 14,
+          "LineItemTotal": 54.80,
+          "Packs": [
+            {
+              "PackageCode": "MF8",
+              "ItemsPerPack": 8,
+              "Price": 24.95,
+              "Qty": 1
+            },
+            {
+              "PackageCode": "MF2",
+              "ItemsPerPack": 2,
+              "Price": 9.95,
+              "Qty": 3
+            }
+          ]
+        },
+        {
+          "Description": "Croissant",
+          "Code": "CR",
+          "TotalItemQty": 13,
+          "LineItemTotal": 23.00,
+          "Packs": [
+            {
+              "PackageCode": "CR5",
+              "ItemsPerPack": 5,
+              "Price": 8.50,
+              "Qty": 2
+            },
+            {
+              "PackageCode": "CR3",
+              "ItemsPerPack": 3,
+              "Price": 6.00,
+              "Qty": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
